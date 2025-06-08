@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/994b6915-a619-4f78-b2d2-9d1ed9c5ac65)![image](https://github.com/user-attachments/assets/15ee0abe-d9de-4d0c-8c7a-091478e3cfb9)# 🌿 UAP Pengembangan Aplikasi Mobile
+🌿 UAP Pengembangan Aplikasi Mobile
 
 📱 *Universitas Brawijaya – Teknologi Informasi – TI-B*
 
@@ -41,7 +41,7 @@ Teknologi yang digunakan:
 
 > Letakkan gambar di sini 👇
 
-```markdown
+
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/d9d5ae8b-9dca-4cd7-aea7-8a58d5261b33" />
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/595afb69-53e2-4030-af4d-105347d3cc8f" />
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/ef213cb0-212f-493c-97ed-803301cdbd77" />

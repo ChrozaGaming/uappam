@@ -62,7 +62,7 @@ Aplikasi ini dikembangkan untuk memenuhi Ujian Akhir Praktikum mata kuliah *Peng
 
 ## 📦 Link Pengumpulan File APK
 
-📥 [Klik untuk membuka APK –  Via Google Drive]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/drive/folders/1fMowXdAYh9S6TRZqJ9B-Kgc77WdAu81b?usp=sharing))
+📥 [Folder Google Drive – APK UAP](https://drive.google.com/drive/folders/1fMowXdAYh9S6TRZqJ9B-Kgc77WdAu81b?usp=sharing)
 
 ---
 

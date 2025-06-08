@@ -44,10 +44,12 @@ Teknologi yang digunakan:
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/d9d5ae8b-9dca-4cd7-aea7-8a58d5261b33" />
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/595afb69-53e2-4030-af4d-105347d3cc8f" />
 <img width="385" alt="image" src="https://github.com/user-attachments/assets/ef213cb0-212f-493c-97ed-803301cdbd77" />
-<img src="https://github.com/user-attachments/assets/fdb717eb-abb1-4e0f-9ad2-efda7a6c83e8" width="400" alt="Screenshot 1" />
-<img src="https://github.com/user-attachments/assets/0e2bf604-398c-4af7-a98c-c71ce2807c83" width="400" alt="Screenshot 2" />
-<img src="https://github.com/user-attachments/assets/afce8d18-cff5-42ef-b549-6f8bdf9a90f2" width="400" alt="Screenshot 3" />
-<img src="https://github.com/user-attachments/assets/2b9289a0-7573-475c-84cd-412f21147a23" width="400" alt="Screenshot 4" />
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/5b1949c8-0b38-41df-b4aa-d723976e2e0f" />
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/152526cb-c557-4361-8b52-9104aba056d9" />
+<img width="411" alt="image" src="https://github.com/user-attachments/assets/3ed62c00-830c-4890-9350-8975cf96d1ee" />
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/58756b79-b578-4ffb-a550-8ddb8d4c5649" />
+
+
 
 
 

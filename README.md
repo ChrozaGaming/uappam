@@ -44,6 +44,12 @@ Aplikasi ini dikembangkan untuk memenuhi Ujian Akhir Praktikum mata kuliah *Peng
 
 ---
 
+## 📦 Link Pengumpulan File APK
+
+📥 [Folder Google Drive – APK UAP](https://drive.google.com/drive/folders/1fMowXdAYh9S6TRZqJ9B-Kgc77WdAu81b?usp=sharing)
+
+---
+
 ## 📸 Tampilan Aplikasi
 
 <div align="center">
@@ -60,9 +66,6 @@ Aplikasi ini dikembangkan untuk memenuhi Ujian Akhir Praktikum mata kuliah *Peng
 
 ---
 
-## 📦 Link Pengumpulan File APK
-
-📥 [Folder Google Drive – APK UAP](https://drive.google.com/drive/folders/1fMowXdAYh9S6TRZqJ9B-Kgc77WdAu81b?usp=sharing)
 
 ---
 

@@ -1,4 +1,4 @@
-🌿 UAP Pengembangan Aplikasi Mobile
+# 🌿 UAP Pengembangan Aplikasi Mobile
 
 📱 *Universitas Brawijaya – Teknologi Informasi – TI-B*
 
@@ -9,6 +9,13 @@
 | **Nama**               | **NIM**              | **Kelas** |
 |------------------------|----------------------|-----------|
 | Hilmy Raihan Alkindy  | 235150707111042      | TI - B    |
+
+---
+
+## 👨‍🏫 Asisten Praktikum
+
+- Bagus Alfin Aulia  
+- Vira Vradilla W
 
 ---
 
@@ -28,10 +35,10 @@ Aplikasi ini dikembangkan untuk memenuhi Ujian Akhir Praktikum mata kuliah *Peng
 - Mengedit data tanaman
 - Menghapus tanaman
 
-Teknologi yang digunakan:
+### 🛠️ Teknologi yang Digunakan
 - Android Studio + Kotlin
 - Retrofit2
-- REST API (https://uappam.kuncipintu.my.id)
+- REST API: [`https://uappam.kuncipintu.my.id`](https://uappam.kuncipintu.my.id)
 - XML Layout
 - RecyclerView, Intent, Activity, dan ViewBinding
 
@@ -39,17 +46,25 @@ Teknologi yang digunakan:
 
 ## 📸 Tampilan Aplikasi
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d9d5ae8b-9dca-4cd7-aea7-8a58d5261b33" width="320" />
+  <img src="https://github.com/user-attachments/assets/595afb69-53e2-4030-af4d-105347d3cc8f" width="320" />
+  <img src="https://github.com/user-attachments/assets/ef213cb0-212f-493c-97ed-803301cdbd77" width="320" />
+  <br/>
+  <img src="https://github.com/user-attachments/assets/5b1949c8-0b38-41df-b4aa-d723976e2e0f" width="320" />
+  <img src="https://github.com/user-attachments/assets/152526cb-c557-4361-8b52-9104aba056d9" width="320" />
+  <img src="https://github.com/user-attachments/assets/3ed62c00-830c-4890-9350-8975cf96d1ee" width="320" />
+  <br/>
+  <img src="https://github.com/user-attachments/assets/58756b79-b578-4ffb-a550-8ddb8d4c5649" width="320" />
+</div>
 
+---
 
-<img width="391" alt="image" src="https://github.com/user-attachments/assets/d9d5ae8b-9dca-4cd7-aea7-8a58d5261b33" />
-<img width="390" alt="image" src="https://github.com/user-attachments/assets/595afb69-53e2-4030-af4d-105347d3cc8f" />
-<img width="385" alt="image" src="https://github.com/user-attachments/assets/ef213cb0-212f-493c-97ed-803301cdbd77" />
-<img width="392" alt="image" src="https://github.com/user-attachments/assets/5b1949c8-0b38-41df-b4aa-d723976e2e0f" />
-<img width="391" alt="image" src="https://github.com/user-attachments/assets/152526cb-c557-4361-8b52-9104aba056d9" />
-<img width="411" alt="image" src="https://github.com/user-attachments/assets/3ed62c00-830c-4890-9350-8975cf96d1ee" />
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/58756b79-b578-4ffb-a550-8ddb8d4c5649" />
+## 📦 Link Pengumpulan File APK
 
+📥 [Klik untuk membuka APK –  Via Google Drive]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/drive/folders/1fMowXdAYh9S6TRZqJ9B-Kgc77WdAu81b?usp=sharing))
 
+---
 
-
-
+## ✅ Status
+🟢 **Selesai dan Siap Dikumpulkan**
